@@ -1,0 +1,2 @@
+# MachineLearningProject
+We are given a series of bridge games dataset. For each game we have the certain information as feature values according to the played game. Regarding to this dataset we are requested to perform machine learning algorithms such as dimensionality reduction, clustering and non-parametric estimation. For implementing this project, I will use Python programming language. Because, it has a lot of helpful libraries and well documented on the internet.
